@@ -33,9 +33,9 @@ assets:
   - {seq: 14, filename: KR3eh032_014-jc.yaml, hash: 'sha256:99c7c2ac7895484dc5a2d7032d5ad885e04e33d31e422c2ff43b5422870ec93c'}
   - {seq: 15, filename: KR3eh032_015-jc.yaml, hash: 'sha256:146477f5b1075e8a9667df3cd91ae22501e7998d61cb8fa463cf8e493fca769f'}
   - {seq: 16, filename: KR3eh032_016-jc.yaml, hash: 'sha256:be0a19e5566b682df4ae45a0e970cd1d47a7160821dcd360bf6f7c81a8ce9c8e'}
-  - {seq: 0, filename: KR3eh032_000-jc.yaml, hash: 'sha256:60c06f5b4ffd085be3bdf4ae87160f6e27cf77d4ca2d09ca86a89b22cd5c2e11'}
+  - {seq: 0, filename: KR3eh032_000-jc.yaml, hash: 'sha256:6c6fd85044170b19a7ffb48da459972360ec9dd9ba91535b6a9ca0a8537a4b3b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eh032_000-jc.markers.yaml, hash: 'sha256:f645ca00de6a27f59cd0d734d2eeb4f85fecda02dc6880414dbf60f65b4e2355'}
+  - {seq: 0, role: markers, filename: assets/KR3eh032_000-jc.markers.yaml, hash: 'sha256:3fb142fff3c911766cc2f261f8dea20b12276e48c9ec9f92d32aa4efbd0a9344'}
   - {seq: 1, role: markers, filename: assets/KR3eh032_001-jc.markers.yaml, hash: 'sha256:d07e2a15f86eddf56e30c18d3af69bc8435b126e2a3d11435e46fd608245844d'}
   - {seq: 2, role: markers, filename: assets/KR3eh032_002-jc.markers.yaml, hash: 'sha256:07ce6c7265693bfcd6664c3dd0e3784acf579ef37fcfbd04dd6c749fe67da83c'}
   - {seq: 3, role: markers, filename: assets/KR3eh032_003-jc.markers.yaml, hash: 'sha256:948a9b3dfd8bdf126365b0f9f4bad404fe3b26f9d6b775e1db99ef1a78db3895'}
@@ -1507,7 +1507,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eh032_jc_000-d18.h1s1
     span:
-    - front
+    - body
     - 0
     - 1335
   label: 世補齋醫書自序
@@ -1517,7 +1517,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eh032_jc_000-d18d4
     span:
-    - front
+    - body
     - 704
     - 1335
   label: 補後漢書張機傳論書後
@@ -1528,9 +1528,9 @@ table_of_contents:
     marker_id: KR3eh032_jc_000-d19.h1s1
     span:
     - body
-    - 0
-    - 505
+    - 1335
+    - 1840
   label: 跋
   type: section
   level: 1
-hash: sha256:3c9afd63d91237db7477503aa8e2397414637ffd5399cce68b5901892915547a
+hash: sha256:4b77f63d5624c23f132792a4bbbd226ff3058a020c02d4df82e4e25fa0d71328
